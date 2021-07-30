@@ -6,4 +6,4 @@ layout: page
 ---
 Jag återkommer så snart jag kan.
 
-**Ha en bra dag! **
+**Ha en bra dag!**

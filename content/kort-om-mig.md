@@ -52,8 +52,6 @@ Faktum är att jag kommer inte att vara rätt för alla men om vi inte byter nå
 
 [Är du redo att inleda en diskussion?](www.google.com)
 
-***
-
 
 
 

@@ -15,7 +15,7 @@ sections:
         default_value: Ditt namn
         is_required: true
       - input_type: email
-        name: email
+        name: E-post
         label: Email
         default_value: Your email address
         is_required: true

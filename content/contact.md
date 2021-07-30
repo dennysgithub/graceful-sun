@@ -21,7 +21,7 @@ sections:
         is_required: true
       - input_type: select
         name: Ämne
-        label: Subject
+        label: Ämne
         default_value: Please select
         options:
           - Error on the site

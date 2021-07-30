@@ -30,11 +30,11 @@ seo:
       relativeUrl: true
 layout: page
 ---
-:orange_square: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+:orange_square: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-:orange_square: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+:orange_square: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-:orange_square: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+:orange_square: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Läs i så fall vidare.
 

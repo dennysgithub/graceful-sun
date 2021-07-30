@@ -25,7 +25,7 @@ sections:
         default_value: Vänligen välj
         options:
           - Rådgivning
-          - Sponsorship
+          - Teknisk hjälp
           - Other
       - input_type: textarea
         name: message

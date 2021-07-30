@@ -10,11 +10,12 @@ sections:
   - section_id: about
     type: section_content
     title: just nu
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: |+
+      **Jag gör en rankinganalys av ert företags synlighet i Google Maps.**
+       Med min rankinganalys jämför jag över 80 olika slagningar i Google Maps
+       och ger er en överskådlig bild över var ni ligger bra till, och var ni 
+      inte ligger så bra till.
+
     actions:
       - label: Contact Me
         url: /contact

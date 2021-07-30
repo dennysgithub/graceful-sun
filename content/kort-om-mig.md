@@ -50,4 +50,6 @@ Faktum är att jag kommer inte att vara rätt för alla men om vi inte byter nå
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
 
-[Är du redo att inleda en diskussion?](www.google.com)
+
+
+:point_right:[ Är du redo att inleda en diskussion?](www.google.com)

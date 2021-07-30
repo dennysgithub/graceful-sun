@@ -48,6 +48,8 @@ Ja det kanske ni inte ska, det är mycket möjligt att det bästa ni kan göra �
 
 Faktum är att jag kommer inte att vara rätt för alla men om vi inte byter några ord så jag kan förstå just er situation lite bättre så kommer vi aldrig heller veta.
 
+> The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
+
 [Är du redo att inleda en diskussion?](www.google.com)
 
 ***
@@ -56,6 +58,6 @@ Faktum är att jag kommer inte att vara rätt för alla men om vi inte byter nå
 
 
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
 
-**
+
+

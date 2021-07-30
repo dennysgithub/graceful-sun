@@ -30,7 +30,7 @@ sections:
       - input_type: textarea
         name: Meddelande
         label: Meddelande
-        default_value: Your message
+        default_value: Ditt meddelande
       - input_type: checkbox
         name: consent
         label: >-

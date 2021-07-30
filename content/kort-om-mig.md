@@ -36,9 +36,9 @@ layout: page
 
 *   **Klientproblem #3**
 
-Läs i så fall vidare. 
+Läs i så fall vidare.
 
-Hej, jag heter Dennis och jag hjälper lokala företagare med SEO & Webbdesign, vilket i helt enkelt betyder att jag fixar kunder till dig på ett eller annat vis. :rocket:
+Hej, jag heter Dennis och jag hjälper lokala företagare med SEO & Webbdesign, vilket helt enkelt betyder att jag fixar kunder till dig på ett eller annat vis. :rocket:
 
 Tänk dig \[vad dina kunder vill ha efter att de fått resultat genom att arbeta med dig - t.ex. åka på semester, etc.]  Är du redo att göra det?
 

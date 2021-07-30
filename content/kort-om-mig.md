@@ -30,11 +30,11 @@ seo:
       relativeUrl: true
 layout: page
 ---
-:green_square: **Klientproblem #1**
+:orange_square: **Klientproblem #1**
 
-:green_square: **Klientproblem #1**
+:orange_square: **Klientproblem #1**
 
-:green_square: **Klientproblem #1**
+:orange_square: **Klientproblem #1**
 
 Läs i så fall vidare.
 

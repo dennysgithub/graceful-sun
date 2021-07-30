@@ -34,7 +34,7 @@ sections:
     posts_number: 4
     actions:
       - label: Kolla bloggen
-        url: blog/index.html
+        url: blogg/index.html
         style: button
 seo:
   title: Stackbit Fresh Theme

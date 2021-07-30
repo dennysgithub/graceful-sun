@@ -20,7 +20,7 @@ sections:
       - label: gratis rankinganalys
         url: /contact
         style: button
-      - label: lorem-ipsum
+      - label: se ett smakprov
         url: '#'
         style: link
         icon_class: dev

@@ -24,7 +24,7 @@ sections:
         label: Ämne
         default_value: Vänligen välj
         options:
-          - Error on the site
+          - Rådgivning
           - Sponsorship
           - Other
       - input_type: textarea

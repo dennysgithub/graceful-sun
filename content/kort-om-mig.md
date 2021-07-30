@@ -44,7 +44,7 @@ Tänk dig vad det hade kunnat betyda om telefonen började ringa lite oftare, va
 
 Det kanske du tycker men varför i allsin dar skulle ni välja en frilansare som mig framför en etablerad webbyrå att göra jobbet i så fall?
 
-Ja det kanske ni inte ska, det är mycket möjligt att det bästa ni kan göra är att springa rakt åt det andra hållet och inte se er om. 
+Ja det kanske ni inte ska, det är mycket möjligt att det bästa ni kan göra är att springa rakt åt det andra hållet och inte se er om.
 
 Faktum är att jag kommer inte att vara rätt för alla men om vi inte byter några ord så jag kan förstå just er situation lite bättre så kommer vi aldrig heller veta.
 
@@ -54,12 +54,8 @@ Faktum är att jag kommer inte att vara rätt för alla men om vi inte byter nå
 
 ***
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+> The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+**

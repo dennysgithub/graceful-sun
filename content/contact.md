@@ -17,7 +17,7 @@ sections:
       - input_type: email
         name: E-post
         label: E-post
-        default_value: Your email address
+        default_value: Din e-post
         is_required: true
       - input_type: select
         name: subject

@@ -28,7 +28,7 @@ sections:
           - Teknisk hjälp
           - Annat
       - input_type: textarea
-        name: message
+        name: Meddelande
         label: Message
         default_value: Your message
       - input_type: checkbox

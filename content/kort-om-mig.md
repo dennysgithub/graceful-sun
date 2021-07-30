@@ -40,7 +40,13 @@ Läs i så fall vidare.
 
 Hej, jag heter Dennis och jag hjälper lokala företagare med SEO & Webbdesign, vilket helt enkelt betyder att jag fixar kunder till dig på ett eller annat vis. :rocket:
 
-Tänk dig \[vad dina kunder vill ha efter att de fått resultat genom att arbeta med dig - t.ex. åka på semester, etc.]  Är du redo att göra det?
+Tänk dig vad det hade kunnat betyda om telefonen började ringa lite oftare, vad trevligt det hade varit att ligga i topp i Google.
+
+Det kanske du tycker men varför i allsin dar ska ni välja en frilansare som mig framför en etablerad webbyrå att göra jobbet i så fall?
+
+Ja det kanske ni inte ska, det är mycket möjligt att det bästa ni kan göra är att springa rakt åt det andra hållet och inte se er om. Faktum är att jag kommer inte att vara rätt för alla men om vi inte byter några ord så jag kan förstå just er situation lite bättre så kommer vi aldrig heller veta.
+
+[Är du redo att inleda en diskussion?](www.google.com)
 
 ***
 

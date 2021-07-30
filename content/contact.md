@@ -20,7 +20,7 @@ sections:
         default_value: Din e-post
         is_required: true
       - input_type: select
-        name: subject
+        name: Ämne
         label: Subject
         default_value: Please select
         options:

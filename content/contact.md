@@ -26,7 +26,7 @@ sections:
         options:
           - Rådgivning
           - Teknisk hjälp
-          - Other
+          - Annat
       - input_type: textarea
         name: message
         label: Message

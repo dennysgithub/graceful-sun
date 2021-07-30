@@ -20,7 +20,7 @@ sections:
       - label: gratis rankinganalys
         url: /contact
         style: button
-      - label: SE ETT SMAKPROV
+      - label: Se ett smakprov
         url: '#'
         style: link
         icon_class: dev

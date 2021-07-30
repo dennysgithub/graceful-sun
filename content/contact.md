@@ -22,7 +22,7 @@ sections:
       - input_type: select
         name: Ämne
         label: Ämne
-        default_value: Please select
+        default_value: Vänligen välj
         options:
           - Error on the site
           - Sponsorship

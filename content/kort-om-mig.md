@@ -1,7 +1,6 @@
 ---
 title: Kort om mig
 subtitle: Låter något av det här bekant?
-img_path: images/about.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me

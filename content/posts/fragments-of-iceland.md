@@ -41,7 +41,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
+
 
 {{< youtube w7Ft2ymGmfc >}}
 

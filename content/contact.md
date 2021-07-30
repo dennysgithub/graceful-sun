@@ -29,7 +29,7 @@ sections:
           - Annat
       - input_type: textarea
         name: Meddelande
-        label: Message
+        label: Meddelande
         default_value: Your message
       - input_type: checkbox
         name: consent

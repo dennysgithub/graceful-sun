@@ -17,7 +17,7 @@ sections:
       inte ligger så bra till.
 
     actions:
-      - label: Contact Me
+      - label: gratis rankinganalys
         url: /contact
         style: button
   - section_id: recent-posts

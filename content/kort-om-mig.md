@@ -38,7 +38,7 @@ layout: page
 
 Läs i så fall vidare.
 
-Hej, jag heter Dennis och jag hjälper lokala företagare med SEO & Webbdesign, vilket helt enkelt betyder att jag fixar kunder till dig på ett eller annat vis. :rocket:
+Hej, jag heter Dennis och jag hjälper lokala företagare med SEO & Webbdesign, vilket helt enkelt betyder att jag fixar kunder till dig på ett eller annat vis. :slightly_smiling_face:
 
 Tänk dig vad det hade kunnat betyda om telefonen började ringa lite oftare, vad trevligt det hade varit att ligga i topp i Google.
 

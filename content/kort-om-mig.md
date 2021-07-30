@@ -36,12 +36,6 @@ layout: page
 
 :green_square: **Klientproblem #1**
 
-
-
-*   **Klientproblem #2**
-
-*   **Klientproblem #3**
-
 Läs i så fall vidare.
 
 Hej, jag heter Dennis och jag hjälper lokala företagare med SEO & Webbdesign, vilket helt enkelt betyder att jag fixar kunder till dig på ett eller annat vis. :rocket:

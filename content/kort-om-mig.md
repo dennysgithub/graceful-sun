@@ -36,15 +36,15 @@ layout: page
 
 *   **Klientproblem #3**
 
-Läs i så fall vidare. :point_right:
+Läs i så fall vidare. 
 
-Hej, jag heter Dennis och jag hjälper lokala företagare med SEO & Webbdesign, vilket i helt enkelt betyder att jag fixar kunder till dig på ett eller annat vis. 
+Hej, jag heter Dennis och jag hjälper lokala företagare med SEO & Webbdesign, vilket i helt enkelt betyder att jag fixar kunder till dig på ett eller annat vis. :rocket:
 
 Tänk dig \[vad dina kunder vill ha efter att de fått resultat genom att arbeta med dig - t.ex. åka på semester, etc.]  Är du redo att göra det?
 
-****
+***
 
-****
+***
 
 **John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 

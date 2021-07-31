@@ -36,7 +36,7 @@ Det verkar tråkigt. Men till övervakarna från staten som läser detta kan jag
 
 Vad jag försöker göra är att... gräva fram dem... Nä, detta blev också konstigt.
 
-Nu får det räcka, poängen jag vill komma till är att jag heter Dennis och är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Webbdesign.
+Poängen jag vill komma till är att jag heter Dennis och är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Webbdesign.
 
 Vilket betyder att jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.
 
@@ -44,15 +44,15 @@ Sitter du och tittar på konkurrenterna i Googles sökresultat och undrar vad de
 
 Det finns ingen magi tyvärr, du är troligtvis vuxen nu och borde inte tro på sånt längre. De bra nyheterna är att det finns ingen som helst anledning till varför du själv inte kan vara där istället!
 
-Det finns något som kallas för "det lokala 3-packet", du har sett det förut. Men jag lägger in en bild så vi förstår varann. 
+Det finns något som kallas för "det lokala 3-packet", du har sett det förut. Men jag lägger in en bild så vi förstår varann.
 
 \[bild]
 
-Det verkar vara få lokala företagare som inser vikten av att synas just där, bland dem tre första. 
+Det verkar vara få lokala företagare som inser vikten av att synas just där, bland dem tre första.
 
-Faktum är att det är just där majoriteten av klicken går. 
+Faktum är att det är just där majoriteten av klicken går.
 
-Klicken går inte till annonser, dom går inte till det vanliga sökresultatet. När användare letare efter ett lokalt företag så väljer dom i 44% av gångerna just ett av de tre. Bara 8% av gångerna så klickar dom vidare och väljer något under topp 3 platsen. 
+Klicken går inte till annonser, dom går inte till det vanliga sökresultatet. När användare letare efter ett lokalt företag så väljer dom i 44% av gångerna just ett av de tre. Bara 8% av gångerna så klickar dom vidare och väljer något under topp 3 platsen.
 
 Nu börjar det bli för mycket siffror, jag slänger in en graf och en studie istället.
 

@@ -34,7 +34,7 @@ layout: page
 ---
 Det verkar tråkigt. Men till övervakarna från staten som läser detta kan jag lugna er, jag försöker inte gömma några döda kroppar.
 
-Vad jag gör är att... gräva fram dem... Nä, detta blev också konstigt.
+Vad jag försöker göra är att... gräva fram dem... Nä, detta blev också konstigt.
 
 Hur som helst, är du en lokal företagare så hjälper jag dig synas.
 

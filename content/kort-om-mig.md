@@ -44,7 +44,7 @@ Det finns ingen magi tyvärr, du är troligtvis vuxen nu och borde inte tro på 
 
 Det finns något som kallas för "det lokala 3-packet", du har sett det förut. Men jag lägger in en bild så vi förstår varann.
 
-![](images/polite-turtle.png)
+![](<stackbit_asset_id:static:static/images/Screenshot 2021-07-31 at 14-28-29 rörmokare stockhollm - Sök på Google.png>)
 
 Det verkar vara få lokala företagare som verkligen inser vikten av att synas just där, bland dem tre första.
 

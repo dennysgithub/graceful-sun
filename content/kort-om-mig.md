@@ -46,11 +46,11 @@ Det finns något som kallas för "det lokala 3-packet", du har sett det förut. 
 
 \[bild]
 
-Det verkar vara få lokala företagare som inser vikten av att synas just där, bland dem tre första.
+Det verkar vara få lokala företagare som verkligen inser vikten av att synas just där, bland dem tre första.
 
-Faktum är att det är just där majoriteten av klicken går.
+Faktum är att det är dit majoriteten av klicken går.
 
-Jag tänkte rabbla en massa siffror nu men det vill ingen läsa så jag slänger in en illustrerande graf och en länk till studien så kan du se för dig själv.
+Jag tänkte rabbla upp en massa siffror nu men det vill ingen läsa så jag slänger in en illustrerande graf och en länk till studien så kan du se för dig själv.
 
 \[bild]
 
@@ -58,7 +58,9 @@ Jag tänkte rabbla en massa siffror nu men det vill ingen läsa så jag slänger
 
 En vanlig missuppfattning är att man måste vara nummer ett, men det viktiga är inte alls att vara nummer ett. <mark>Det viktiga är att dyka upp i så många lokala 3-pack som möjligt.</mark>
 
-Om du tog del av mitt erbjudande på startsidan så kommer du snart få en rankinganalys där jag visar just hur ni står er i över 80 olika lokala 3-pack. Hur många ni är med i, hur många ni är utanför. Detta är viktigt information för att börja bygga på något nytt.
+Om du tog del av mitt erbjudande på startsidan så kommer du snart få en rankinganalys där jag visar just hur ni står er i över 80 olika lokala 3-pack. Hur många ni är med i, hur många ni är utanför. 
+
+Med den informationen så kan ni genast börja göra förändringar för att ta er in i fler lokala 3-pack, med eller utan min hjälp. Förhoppningsvis kanske du finner lite värde i en youtube video och gör saker själv.
 
 > Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>Scott Adams</cite>
 

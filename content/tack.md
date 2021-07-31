@@ -3,7 +3,7 @@ title: Snyggt jobbat!
 img_alt: Thank You Led Signage
 layout: page
 seo:
-  title: ''
+  title: SEOmetoden
   description: ''
   robots: []
   extra: []

@@ -11,8 +11,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'twitter:title'
-      value: About Me
     - name: 'twitter:description'
       value: This is the about me page
 layout: page

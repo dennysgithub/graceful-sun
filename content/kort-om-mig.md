@@ -44,8 +44,6 @@ Det finns ingen magi tyvärr, du är troligtvis vuxen nu och borde inte tro på 
 
 Det finns något som kallas för "det lokala 3-packet", du har sett det förut. Men jag lägger in en bild så vi förstår varann.
 
-
-
 Det verkar vara få lokala företagare som verkligen inser vikten av att synas just där, bland dem tre första.
 
 Faktum är att det är dit majoriteten av klicken går.
@@ -58,7 +56,9 @@ Jag tänkte rabbla upp en massa siffror nu men det vill ingen läsa så jag slä
 
 **Börjar du förstå hur mycket kunder och pengar det finns att hämta i 3-packet nu?**
 
-En vanlig missuppfattning är att man måste vara nummer ett, men det viktiga är inte alls att vara nummer ett. <mark>Det viktiga är att dyka upp i så många lokala 3-pack som möjligt.</mark>
+En vanlig missuppfattning är att man måste vara nummer ett, men det viktiga är inte alls att vara nummer ett. Det viktiga är att dyka upp i så många lokala 3-pack som möjligt.
+
+Och det är där jag kommer in i bilden igen. 
 
 Om du tog del av mitt erbjudande på startsidan så kommer du snart få en rankinganalys där jag visar just hur ni står er i över 80 olika lokala 3-pack. Hur många ni är med i, hur många ni är utanför.
 

@@ -21,7 +21,7 @@ Poängen jag vill komma fram till är att jag heter Dennis och är en frilansand
 
 Sitter du och tittar på konkurrenterna i Googles sökresultat och undrar vad det är för magi dom pysslar med egentligen för att synas där uppe? I så fall har jag bra & dåliga nyheter.
 
-Det finns ingen magi tyvärr, du är troligtvis vuxen nu och borde inte tro på sådant längre. De goda nyheterna är att du är på rätt ställe om du vill byta plats med dem.
+Det finns ingen magi tyvärr, du är troligtvis vuxen nu och borde inte tro på sådant längre. De goda nyheterna är att du är på precis rätt ställe om du vill sitta där uppe och titta ned istället.
 
 Det finns något som kallas för "det lokala 3-packet", du har sett det förut. Men jag lägger in en bild för att säkerställa att du är med på noterna.
 

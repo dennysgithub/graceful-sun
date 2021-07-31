@@ -11,8 +11,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'twitter:description'
-      value: This is the about me page
 layout: page
 ---
 Det verkar tråkigt. Men till övervakarna från staten som läser detta kan jag lugna er, jag försöker inte gömma några döda kroppar.

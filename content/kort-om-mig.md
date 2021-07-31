@@ -17,7 +17,7 @@ Det verkar tråkigt. Men till övervakarna från staten som läser detta kan jag
 
 Vad jag försöker göra är att... gräva fram dem... Nä, detta blev också konstigt.
 
-Poängen jag vill komma till är att jag heter Dennis och är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Webbdesign. **Vilket betyder att jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.**
+Poängen jag vill komma till är att jag heter Dennis och är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Webbdesign. **Vilket betyder att jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder. **
 
 Sitter du och tittar på konkurrenterna i Googles sökresultat och undrar vad det är för magi dom pysslar med egentligen för att synas där uppe? I så fall har jag bra & dåliga nyheter.
 
@@ -26,6 +26,8 @@ Det finns ingen magi tyvärr, du är troligtvis vuxen nu och borde inte tro på 
 Det finns något som kallas för "det lokala 3-packet", du har sett det förut. Men jag lägger in en bild för att säkerställa att du är med på noterna.
 
 ![](<stackbit_asset_id:static:static/images/Screenshot 2021-07-31 at 14-11-16 rörmokare stockhollm - Sök på Google.png>)
+
+Det är det här jag älskar och som du som lokal företagare också borde lära dig att älska, för det här kan innebära rena rama guldgruvan för dig.
 
 Det verkar vara få lokala företagare som verkligen inser vikten av att synas just där, bland dem tre första.
 

@@ -45,8 +45,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'twitter:card'
-      value: summary_large_image
     - name: 'twitter:description'
       value: The preview of the Fresh theme
     - name: 'twitter:image'

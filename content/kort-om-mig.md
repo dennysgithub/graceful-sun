@@ -44,15 +44,13 @@ Det finns ingen magi tyvärr, du är troligtvis vuxen nu och borde inte tro på 
 
 Det finns något som kallas för "det lokala 3-packet", du har sett det förut. Men jag lägger in en bild så vi förstår varann.
 
-
+![](images/polite-turtle.png)
 
 Det verkar vara få lokala företagare som verkligen inser vikten av att synas just där, bland dem tre första.
 
 Faktum är att det är dit majoriteten av klicken går.
 
 Jag tänkte rabbla upp en massa siffror nu men det vill ingen läsa så jag slänger in en illustrerande graf och en länk till studien så kan du se för dig själv.
-
-
 
 **Börjar du förstå hur mycket kunder och pengar det finns att hämta i 3-packet nu?**
 

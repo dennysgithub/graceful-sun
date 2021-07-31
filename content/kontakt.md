@@ -44,7 +44,5 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'twitter:card'
-      value: summary
 layout: advanced
 ---

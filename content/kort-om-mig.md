@@ -40,7 +40,7 @@ Hur som helst, är du en lokal företagare så hjälper jag dig synas.
 
 Sitter du och tittar på konkurrenterna i Googles sökresultat och undrar vad det är för magi dom pysslar med egentligen för att synas där uppe? I så fall har jag bra & dåliga nyheter.
 
-Det finns ingen magi tyvärr. De bra nyheterna är att det finns ingen som helst anledning till varför du själv inte kan vara där istället!
+Det finns ingen magi tyvärr, du är troligtvis vuxen nu och borde inte tro på sånt längre. De bra nyheterna är att det finns ingen som helst anledning till varför du själv inte kan vara där istället!
 
 Läs i så fall vidare.
 

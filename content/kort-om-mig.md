@@ -13,11 +13,11 @@ seo:
       keyName: property
 layout: page
 ---
-Det verkar tråkigt. <mark>Men till övervakarna från staten som läser detta kan jag lugna er, jag försöker inte gömma några döda kroppar.</mark>
+Det verkar tråkigt. Men till övervakarna från staten som läser detta kan jag lugna er, jag försöker inte gömma några döda kroppar.
 
 Vad jag försöker göra är att... gräva fram dem... Nä, detta blev också konstigt.
 
-Poängen jag vill komma fram till är att jag heter Dennis och är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Webbdesign. **Vilket betyder att jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.**
+Poängen jag vill komma till är att jag heter Dennis och är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Webbdesign. **Vilket betyder att jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.**
 
 Sitter du och tittar på konkurrenterna i Googles sökresultat och undrar vad det är för magi dom pysslar med egentligen för att synas där uppe? I så fall har jag bra & dåliga nyheter.
 

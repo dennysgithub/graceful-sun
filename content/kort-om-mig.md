@@ -58,14 +58,14 @@ Jag tänkte rabbla en massa siffror nu men det vill ingen läsa så jag slänger
 
 En vanlig missuppfattning är att man måste vara nummer ett, men det viktiga är inte alls att vara nummer ett. **Det viktiga är att dyka upp i så många lokala 3-pack som möjligt.**
 
-Om du tog del av mitt erbjudande på startsidan så kommer du snart få en rankinganalys där jag visar just hur ni står er i över 80 olika lokala 3-pack. Hur många ni är med i, hur många ni är utanför. Det är viktigt information för att börja bygga på något nytt.
+Om du tog del av mitt erbjudande på startsidan så kommer du snart få en rankinganalys där jag visar just hur ni står er i över 80 olika lokala 3-pack. Hur många ni är med i, hur många ni är utanför. Detta är viktigt information för att börja bygga på något nytt.
 
-Varför i allsin dar skulle ni välja en frilansare som mig framför en etablerad webbyrå att göra jobbet i så fall?
+| Citat
+
+Men om vi återgår till mig igen då, varför i allsin dar skulle ni välja en frilansare som mig framför en etablerad webbyrå att göra jobbet i så fall?
 
 Ja det kanske ni inte ska, det är mycket möjligt att det bästa ni kan göra är att springa rakt åt det andra hållet och inte se er om.
 
 Faktum är att jag kommer inte att vara rätt för alla men om vi inte byter några ord så jag kan förstå just er situation lite bättre så kommer vi aldrig heller veta.
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
-
-:point_right:[ Är du redo att inleda en diskussion?](www.google.com)
+Är du redo för fler kunder från Google? Börja med att låta mig förstå er situation och [inled en diskussion.](www.google.com)

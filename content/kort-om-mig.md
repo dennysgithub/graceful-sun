@@ -38,19 +38,25 @@ Vad jag försöker göra är att... gräva fram dem... Nä, detta blev också ko
 
 Nu får det räcka, poängen jag vill komma till är att jag heter Dennis och är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Webbdesign.
 
-Vilket betyder att jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder. 
+Vilket betyder att jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.
 
 Sitter du och tittar på konkurrenterna i Googles sökresultat och undrar vad det är för magi dom pysslar med egentligen för att synas där uppe? I så fall har jag bra & dåliga nyheter.
 
 Det finns ingen magi tyvärr, du är troligtvis vuxen nu och borde inte tro på sånt längre. De bra nyheterna är att det finns ingen som helst anledning till varför du själv inte kan vara där istället!
 
-Läs i så fall vidare.
+Det finns något som kallas för "det lokala 3-packet", du har sett det förut. Men jag lägger in en bild så vi förstår varann. 
 
-Hej, jag heter Dennis och jag hjälper lokala företagare med SEO & Webbdesign, vilket helt enkelt betyder att jag fixar kunder till dig på ett eller annat vis. :slightly_smiling_face:
+\[bild]
 
-Tänk dig vad det hade kunnat betyda om telefonen började ringa lite oftare, vad trevligt det hade varit att ligga i topp i Google.
+Det verkar vara få lokala företagare som inser vikten av att synas just där, bland dem tre första. 
 
-Det kanske du tycker men varför i allsin dar skulle ni välja en frilansare som mig framför en etablerad webbyrå att göra jobbet i så fall?
+Faktum är att det är just där majoriteten av klicken går. 
+
+Klicken går inte till annonser, dom går inte till det vanliga sökresultatet. När användare letare efter ett lokalt företag så väljer dom i 44% av gångerna just ett av de tre. Bara 8% av gångerna så klickar dom vidare och väljer något under topp 3 platsen. 
+
+Nu börjar det bli för mycket siffror, jag slänger in en graf och en studie istället.
+
+Varför i allsin dar skulle ni välja en frilansare som mig framför en etablerad webbyrå att göra jobbet i så fall?
 
 Ja det kanske ni inte ska, det är mycket möjligt att det bästa ni kan göra är att springa rakt åt det andra hållet och inte se er om.
 

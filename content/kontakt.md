@@ -38,7 +38,7 @@ sections:
           att jag kan kontaktas.
     submit_label: Skicka meddelande
 seo:
-  title: Contact
+  title: SEOmetoden | Kontakt
   description: This is the contact page
   extra:
     - name: 'og:type'

@@ -16,8 +16,8 @@ jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.**
 
 Google Maps, den lilla struntrutan kanske du tänker.
 
-## Men kolla in den här statistiken:
+### Men kolla in den här statistiken:
 
-### &#xA;Användare litar mer på GMB än annonser OCH det vanliga sökresultatet tillsammans! (källa)
+##### Användare litar mer på GMB än annonser OCH det vanliga sökresultatet tillsammans! (källa)
 
-### Hela 52% klickar in sig I GMB medan bara 19% går till annonser och de resterande 29% till det organiska sökresultatet (källa)
+##### Hela 52% klickar in sig I GMB medan bara 19% går till annonser och de resterande 29% till det organiska sökresultatet (källa)

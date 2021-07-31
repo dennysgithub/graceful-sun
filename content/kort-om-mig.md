@@ -17,7 +17,7 @@ Det verkar tråkigt. Men till övervakarna från staten som läser detta kan jag
 
 Vad jag försöker göra är att... gräva fram dem... Nä, detta blev också konstigt.
 
-Poängen jag vill komma till är att jag heter Dennis och är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Webbdesign. **Vilket betyder att jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.**
+Poängen jag vill komma fram till är att jag heter Dennis och är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Webbdesign. **Vilket betyder att jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.**
 
 Sitter du och tittar på konkurrenterna i Googles sökresultat och undrar vad det är för magi dom pysslar med egentligen för att synas där uppe? I så fall har jag bra & dåliga nyheter.
 
@@ -36,8 +36,6 @@ Jag tänkte rabbla upp en massa siffror nu men det vill ingen läsa så jag slä
 ![](images/Google+3+Pack+clicks-588w.webp)
 
 (källa: [moz studie](https://moz.com/blog/the-new-snack-pack-where-users-clicking-how-you-can-win))
-
-
 
 **Börjar du förstå hur mycket kunder och pengar det finns att hämta i 3-packet nu?**
 

@@ -5,7 +5,7 @@ title: >-
 subtitle: Vänta lite.. det här skulle ju vara en sida där jag berättar om mig själv..
 img_alt: Portrait of a man with beard and mustache
 seo:
-  title: About Me
+  title: SEOmetoden | Kort om mig
   description: This is the about me page
   extra:
     - name: 'og:type'

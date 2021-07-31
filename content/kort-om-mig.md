@@ -56,9 +56,7 @@ Jag tänkte rabbla en massa siffror nu men det vill ingen läsa så jag slänger
 
 Börjar du förstå hur mycket kunder och pengar det finns att hämta i 3-packet nu?
 
-Och du vet väl att 3-packen ser ut helt annorlunda beroende på varifrån du söker? Exempelvis när du sitter på kontoret och söker på din dator så kommer du att få ett så bra resultat som möjligt för du befinner dig på just den platsen Google vet att just ditt företag råkar ligga, så då placerar dom det högt i rankingen. Du kommer också synas ännu högre upp för du har varit inne på din egna hemsida en massa gånger och Google har lärt sig att du tycker om den sidan.
-
-Du får alltså ett felaktigt....
+Det viktiga är inte att vara nummer ett. Det viktiga är att dyka upp i så många lokala 3-pack som möjligt. Om du tog del av mitt erbjudande på startsidan så kommer du snart få en rankinganalys där jag visar just hur ni står er i över 80 olika lokala 3-pack. Hur många ni är med i, hur många ni är utanför. Det är viktigt information för att börja bygga på något nytt.
 
 Varför i allsin dar skulle ni välja en frilansare som mig framför en etablerad webbyrå att göra jobbet i så fall?
 

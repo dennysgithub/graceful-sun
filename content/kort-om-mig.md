@@ -52,7 +52,7 @@ Faktum är att det är dit majoriteten av klicken går.
 
 Jag tänkte rabbla upp en massa siffror nu men det vill ingen läsa så jag slänger in en illustrerande graf och en länk till studien så kan du se för dig själv.
 
-\[bild]
+
 
 **Börjar du förstå hur mycket kunder och pengar det finns att hämta i 3-packet nu?**
 

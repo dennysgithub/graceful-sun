@@ -1,6 +1,8 @@
 ---
 title: Kort om mig
-subtitle: Visste du att det bästa stället att gömma en död kropp på är sida 2 i Google?
+subtitle: >-
+  Visste du att det bästa stället att gömma en död kropp på är sida två i
+  Google?
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me

@@ -50,9 +50,15 @@ Det verkar vara få lokala företagare som inser vikten av att synas just där, 
 
 Faktum är att det är just där majoriteten av klicken går.
 
-Klicken går inte till annonser, dom går inte till det vanliga sökresultatet. När användare letare efter ett lokalt företag så väljer dom i 44% av gångerna just ett av de tre. Bara 8% av gångerna så klickar dom vidare och väljer något under topp 3 platsen.
+Jag tänkte rabbla en massa siffror nu men det vill ingen läsa så jag slänger in en illustrerande graf och en länk till studien så kan du se för dig själv.
 
-Nu börjar det bli för mycket siffror, jag slänger in en graf och en studie istället.
+\[bild]
+
+Börjar du förstå hur mycket kunder och pengar det finns att hämta i 3-packet nu? 
+
+Och du vet väl att 3-packen ser ut helt annorlunda beroende på varifrån du söker? Exempelvis när du sitter på kontoret och söker på din dator så kommer du att få ett så bra resultat som möjligt för du befinner dig på just den platsen Google vet att just ditt företag råkar ligga, så då placerar dom det högt i rankingen. Du kommer också synas ännu högre upp för du har varit inne på din egna hemsida en massa gånger och Google har lärt sig att du tycker om den sidan. 
+
+Du får alltså ett felaktigt....
 
 Varför i allsin dar skulle ni välja en frilansare som mig framför en etablerad webbyrå att göra jobbet i så fall?
 

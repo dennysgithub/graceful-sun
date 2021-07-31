@@ -56,11 +56,9 @@ Jag tänkte rabbla en massa siffror nu men det vill ingen läsa så jag slänger
 
 **Börjar du förstå hur mycket kunder och pengar det finns att hämta i 3-packet nu?**
 
-En vanlig missuppfattning är att man måste vara nummer ett, men det viktiga är inte alls att vara nummer ett. \<mark>
+En vanlig missuppfattning är att man måste vara nummer ett, men det viktiga är inte alls att vara nummer ett. Det viktiga är att dyka upp i så många lokala 3-pack som möjligt.
 
-Det viktiga är att dyka upp i så många lokala 3-pack som möjligt.
 
-\</mark>
 
 Om du tog del av mitt erbjudande på startsidan så kommer du snart få en rankinganalys där jag visar just hur ni står er i över 80 olika lokala 3-pack. Hur många ni är med i, hur många ni är utanför. Detta är viktigt information för att börja bygga på något nytt.
 

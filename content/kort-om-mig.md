@@ -14,8 +14,6 @@ seo:
     - name: 'og:description'
       value: This is the about me page
       keyName: property
-    - name: 'twitter:card'
-      value: summary_large_image
     - name: 'twitter:title'
       value: About Me
     - name: 'twitter:description'

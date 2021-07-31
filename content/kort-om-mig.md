@@ -11,9 +11,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: About Me
-      keyName: property
     - name: 'og:description'
       value: This is the about me page
       keyName: property

@@ -17,7 +17,7 @@ Det verkar tråkigt. Men till övervakarna från staten som läser detta kan jag
 
 Vad jag försöker göra är att... gräva fram dem... Nä, detta blev också konstigt.
 
-Poängen jag vill komma till är att jag heter Dennis och är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Webbdesign. \*\*Vilket betyder att jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder. \*\*
+Poängen jag vill komma till är att jag heter Dennis och är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Webbdesign. **Vilket betyder att jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder. **
 
 Sitter du och tittar på konkurrenterna i Googles sökresultat och undrar vad det är för magi dom pysslar med egentligen för att synas där uppe? I så fall har jag bra & dåliga nyheter.
 
@@ -34,8 +34,6 @@ Det verkar vara få lokala företagare som verkligen inser vikten av att synas j
 Faktum är att det är dit majoriteten av klicken går.
 
 Jag tänkte rabbla upp en massa siffror nu men det vill ingen läsa så jag slänger in ett donut-diagram och en länk till studien så kan du se för dig själv.
-
-
 
 (källa: [moz studie](https://moz.com/blog/the-new-snack-pack-where-users-clicking-how-you-can-win))
 
@@ -56,4 +54,3 @@ Ja det kanske ni inte ska, det är mycket möjligt att det bästa ni kan göra �
 Faktum är att jag kommer inte att vara rätt för alla men om vi inte byter några ord så jag kan förstå just er situation lite bättre så kommer vi aldrig heller veta.
 
 Är du redo för fler kunder från Google? Börja med att låta mig förstå er situation och [inled en diskussion nu.](www.google.com)
-

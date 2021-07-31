@@ -1,6 +1,6 @@
 ---
 title: Det bästa stället att gömma en död kropp på är sida två i Google.
-subtitle: Mitt jobb är att gräva fram er.
+subtitle: Jag har en bra spade. Är ni redo att bli framgrävda?
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: SEOmetoden | Kort om mig

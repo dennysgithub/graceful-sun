@@ -47,8 +47,6 @@ seo:
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:title'
-      value: Stackbit Fresh Theme
     - name: 'twitter:description'
       value: The preview of the Fresh theme
     - name: 'twitter:image'

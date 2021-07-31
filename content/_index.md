@@ -42,9 +42,6 @@ seo:
     Vad skulle det betyda för er verksamhet om ni började få in två gånger fler
     kunder varje månad? 
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
     - name: 'twitter:description'
       value: The preview of the Fresh theme
 layout: advanced

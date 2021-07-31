@@ -44,7 +44,7 @@ Det finns ingen magi tyvärr, du är troligtvis vuxen nu och borde inte tro på 
 
 Det finns något som kallas för "det lokala 3-packet", du har sett det förut. Men jag lägger in en bild så vi förstår varann.
 
-\[bild]
+![](<stackbit_asset_id:static:static/images/Screenshot 2021-07-31 at 14-11-16 rörmokare stockhollm - Sök på Google.png>)
 
 Det verkar vara få lokala företagare som verkligen inser vikten av att synas just där, bland dem tre första.
 
@@ -58,7 +58,7 @@ Jag tänkte rabbla upp en massa siffror nu men det vill ingen läsa så jag slä
 
 En vanlig missuppfattning är att man måste vara nummer ett, men det viktiga är inte alls att vara nummer ett. <mark>Det viktiga är att dyka upp i så många lokala 3-pack som möjligt.</mark>
 
-Om du tog del av mitt erbjudande på startsidan så kommer du snart få en rankinganalys där jag visar just hur ni står er i över 80 olika lokala 3-pack. Hur många ni är med i, hur många ni är utanför. 
+Om du tog del av mitt erbjudande på startsidan så kommer du snart få en rankinganalys där jag visar just hur ni står er i över 80 olika lokala 3-pack. Hur många ni är med i, hur många ni är utanför.
 
 Med den informationen så kan ni genast börja göra förändringar för att ta er in i fler lokala 3-pack, med eller utan min hjälp. Förhoppningsvis kanske du finner lite värde i en youtube video och gör saker själv.
 

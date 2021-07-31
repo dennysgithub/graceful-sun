@@ -46,7 +46,5 @@ seo:
       keyName: property
     - name: 'twitter:card'
       value: summary
-    - name: 'twitter:description'
-      value: This is the contact page
 layout: advanced
 ---

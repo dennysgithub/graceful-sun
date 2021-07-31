@@ -36,7 +36,7 @@ Det verkar tråkigt. Men till övervakarna från staten som läser detta kan jag
 
 Vad jag försöker göra är att... gräva fram dem... Nä, detta blev också konstigt.
 
-Poängen jag vill komma till är att jag heter Dennis och är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Webbdesign.** Vilket betyder att jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.**
+Poängen jag vill komma till är att jag heter Dennis och är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Webbdesign. **Vilket betyder att jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.**
 
 Sitter du och tittar på konkurrenterna i Googles sökresultat och undrar vad det är för magi dom pysslar med egentligen för att synas där uppe? I så fall har jag bra & dåliga nyheter.
 

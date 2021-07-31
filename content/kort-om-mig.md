@@ -1,7 +1,5 @@
 ---
-title: >-
-  Visste du att det bästa stället att gömma en död kropp på är sida två i
-  Google?
+title: Det bästa stället att gömma en död kropp på är sida två i Google?
 subtitle: Vänta lite.. det här skulle ju vara en sida där jag berättar om mig själv..
 img_alt: Portrait of a man with beard and mustache
 seo:

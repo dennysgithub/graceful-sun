@@ -12,7 +12,7 @@ seo:
 layout: page
 ---
 Jag heter Dennis och jag är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Webbdesign. **Vilket betyder att
-jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.**
+jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.** :rocket:
 
 Google Maps, den lilla struntrutan kanske du tänker?
 

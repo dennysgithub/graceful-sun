@@ -1,6 +1,6 @@
 ---
 title: Kort om mig
-subtitle: Låter något av det här bekant?
+subtitle: Visste du att det bästa stället att gömma en död kropp på är sida 2 i Google?
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me

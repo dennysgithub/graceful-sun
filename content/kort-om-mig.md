@@ -21,7 +21,7 @@ Poängen jag vill komma till är att jag heter Dennis och är en frilansande dat
 
 Sitter du och tittar på konkurrenterna i Googles sökresultat och undrar vad det är för magi dom pysslar med egentligen för att synas där uppe? I så fall har jag bra & dåliga nyheter.
 
-Det finns ingen magi tyvärr, du är troligtvis vuxen nu och borde inte tro på sådant längre. De bra nyheterna är att det finns ingen som helst anledning till varför du själv inte kan vara där istället!
+Det finns ingen magi tyvärr, du är troligtvis vuxen nu och borde inte tro på sådant längre. De goda nyheterna är att det finns ingen som helst anledning till varför du själv inte kan vara där istället!
 
 Det finns något som kallas för "det lokala 3-packet", du har sett det förut. Men jag lägger in en bild så vi förstår varann.
 
@@ -39,7 +39,7 @@ Jag tänkte rabbla upp en massa siffror nu men det vill ingen läsa så jag slä
 
 En vanlig missuppfattning är att man måste vara nummer ett, men det viktiga är inte alls att vara nummer ett. Det viktiga är att dyka upp i så många lokala 3-pack som möjligt.
 
-Och det är där jag kommer in i bilden igen. 
+Och det är där jag kommer in i bilden igen.
 
 Om du tog del av mitt erbjudande på startsidan så kommer du snart få en rankinganalys där jag visar just hur ni står er i över 80 olika lokala 3-pack. Hur många ni är med i, hur många ni är utanför.
 

@@ -2,6 +2,12 @@
 title: Snyggt jobbat!
 img_alt: Thank You Led Signage
 layout: page
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
 Jag återkommer så snart jag kan.
 

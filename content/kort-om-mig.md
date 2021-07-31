@@ -1,5 +1,7 @@
 ---
-title: Kort om mig
+title: >-
+  Visste du att det bästa stället att gömma en död kropp på är sida två i
+  Google?
 subtitle: >-
   Visste du att det bästa stället att gömma en död kropp på är sida två i
   Google?

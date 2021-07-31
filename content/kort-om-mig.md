@@ -14,9 +14,9 @@ layout: page
 Jag heter Dennis och jag är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Webbdesign. **Vilket betyder att
 jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.**
 
-Google Maps, den lilla struntrutan kanske du tänker.
+Google Maps, den lilla struntrutan kanske du tänker?
 
-##### Men kolla in den här statistiken:
+##### Men kolla in statistiken:
 
 ###### :white_check_mark: Användare litar mer på GMB än annonser OCH det vanliga sökresultatet tillsammans! ([källa](www.google.com))
 

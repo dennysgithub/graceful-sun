@@ -39,7 +39,7 @@ sections:
     submit_label: Skicka meddelande
 seo:
   title: SEOmetoden | Kontakt
-  description: This is the contact page
+  description: Ta kontakt idag och berätta mer om er situation och vad ni vill åstadkomma.
   extra:
     - name: 'og:type'
       value: website

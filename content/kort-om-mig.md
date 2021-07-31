@@ -20,4 +20,4 @@ Google Maps, den lilla struntrutan kanske du tänker.
 
 ###### :white_check_mark: Användare litar mer på GMB än annonser OCH det vanliga sökresultatet tillsammans! ([källa](www.google.com))
 
-###### Hela 52% klickar in sig I GMB medan bara 19% går till annonser och de resterande 29% till det organiska sökresultatet ([källa](www.google.com))
+###### :white_check_mark: Hela 52% klickar in sig I GMB medan bara 19% går till annonser och de resterande 29% till det organiska sökresultatet ([källa](www.google.com))

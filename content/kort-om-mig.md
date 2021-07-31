@@ -62,7 +62,7 @@ En vanlig missuppfattning är att man måste vara nummer ett, men det viktiga ä
 
 Om du tog del av mitt erbjudande på startsidan så kommer du snart få en rankinganalys där jag visar just hur ni står er i över 80 olika lokala 3-pack. Hur många ni är med i, hur många ni är utanför.
 
-Med den informationen så kan ni genast börja göra förändringar för att ta er in i fler lokala 3-pack, med eller utan min hjälp. Förhoppningsvis kanske du finner lite värde i en youtube video och gör saker själv.
+Med den informationen så kan ni genast börja göra förändringar för att ta er in i fler lokala 3-pack, med eller utan min hjälp. Jag ska göra mitt bästa för att lägga ut instruktionsvideor hur man gör saker och ting på YouTube med tips & trix som kan hjälpa småföretagare att ta tag i det på egen hand så om ni klarar er på egen hand så är det bara toppen!
 
 > Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>Scott Adams</cite>
 

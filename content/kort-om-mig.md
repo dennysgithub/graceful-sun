@@ -21,9 +21,11 @@ Poängen jag vill komma till är att jag heter Dennis och är en frilansande dat
 
 Sitter du och tittar på konkurrenterna i Googles sökresultat och undrar vad det är för magi dom pysslar med egentligen för att synas där uppe? I så fall har jag bra & dåliga nyheter.
 
-Det finns ingen magi tyvärr, du är troligtvis vuxen nu och borde inte tro på sådant längre. De goda nyheterna är att det finns ingen som helst anledning till varför du själv inte kan vara där istället!
+Det finns ingen magi tyvärr, du är troligtvis vuxen nu och borde inte tro på sådant längre. De goda nyheterna är att du är på rätt ställe om du vill byta plats med dem.
 
-Det finns något som kallas för "det lokala 3-packet", du har sett det förut. Men jag lägger in en bild så vi förstår varann.
+Det finns något som kallas för "det lokala 3-packet", du har sett det förut. Men jag lägger in en bild för att säkerställa att du är med på noterna.
+
+![](<stackbit_asset_id:static:static/images/Screenshot 2021-07-31 at 14-11-16 rörmokare stockhollm - Sök på Google.png>)
 
 Det verkar vara få lokala företagare som verkligen inser vikten av att synas just där, bland dem tre första.
 
@@ -31,9 +33,11 @@ Faktum är att det är dit majoriteten av klicken går.
 
 Jag tänkte rabbla upp en massa siffror nu men det vill ingen läsa så jag slänger in ett donut-diagram och en länk till studien så kan du se för dig själv.
 
-\[bild]
+![](images/Google+3+Pack+clicks-588w.webp)
 
-(moz studie)
+(källa: [moz studie](https://moz.com/blog/the-new-snack-pack-where-users-clicking-how-you-can-win))
+
+
 
 **Börjar du förstå hur mycket kunder och pengar det finns att hämta i 3-packet nu?**
 

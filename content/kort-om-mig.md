@@ -32,11 +32,11 @@ seo:
       relativeUrl: true
 layout: page
 ---
-:orange_square: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Det verkar tråkigt. Men till övervakarna från staten som läser detta kan jag lugna er, jag försöker inte gömma några döda kroppar.
 
-:orange_square: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Vad jag gör är att gräva fram dem. Nä, detta blev också konstigt. 
 
-:orange_square: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Hur som helst, är du en lokal företagare så hjälper jag dig.
 
 Läs i så fall vidare.
 

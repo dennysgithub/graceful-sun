@@ -63,7 +63,8 @@ En vanlig missuppfattning är att man måste vara nummer ett, men det viktiga ä
 Om du tog del av mitt erbjudande på startsidan så kommer du snart få en rankinganalys där jag visar just hur ni står er i över 80 olika lokala 3-pack. Hur många ni är med i, hur många ni är utanför. Detta är viktigt information för att börja bygga på något nytt.
 
 
->Einstein
+>Glödlampor är en bra gubbe och rolig och kan många olika saker.
+<cite>Einstein</cite>
 
 
 Men om vi återgår till mig igen då, varför i allsin dar skulle ni välja en frilansare som mig framför en etablerad webbyrå att göra jobbet i så fall?

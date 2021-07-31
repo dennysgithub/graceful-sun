@@ -2,7 +2,7 @@
 title: >-
   Visste du att det bästa stället att gömma en död kropp på är sida två i
   Google?
-subtitle: <mark>Vänta</mark> lite.. det här skulle ju vara en sida där jag berättar om mig själv..
+subtitle: <mark>Vänta lite..</mark> det här skulle ju vara en sida där jag berättar om mig själv..
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: SEOmetoden | Kort om mig

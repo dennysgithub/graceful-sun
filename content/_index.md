@@ -38,7 +38,9 @@ sections:
         style: button
 seo:
   title: SEOmetoden | Kunder till lokala företagare
-  description: The preview of the Fresh theme
+  description: >-
+    Vad skulle det betyda för er verksamhet om ni började få in två gånger fler
+    kunder varje månad? 
   extra:
     - name: 'og:type'
       value: website

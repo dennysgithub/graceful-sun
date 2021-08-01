@@ -18,6 +18,8 @@ Google Maps, den lilla struntrutan kanske du tänker?
 
 ##### Men kolla in statistiken:
 
-###### :white_check_mark: Användare litar mer på GMB än annonser OCH det vanliga sökresultatet tillsammans! ([källa](www.google.com))
+###### :white_check_mark: Användare litar mer på det lokala 3-packet än annonser OCH det vanliga sökresultatet tillsammans! ([källa](https://www.searchenginewatch.com/2015/08/27/google-local-pack-is-233-percent-more-important/))
 
-###### :white_check_mark: Hela 52% klickar in sig I GMB medan bara 29% går till det organiska sökresultatet och de resterande 19% till det betalannonser ([källa](www.google.com))
+###### :white_check_mark: Google Maps-rutan är det första användare ser 93% av tiden  ([källa](https://www.seoclarity.net/how-googles-local-pack-update-has-reshaped-the-organic-landscape-12952/))
+
+###### :white_check_mark: Hela 44% av klicken går till det lokala 3-packet! Bara 29% går till det organiska sökresultatet & 19% går till betalannonser. (de resterande 8% klicken är de som går in i 3-packet och klickar för att se fler företag) ([källa](https://moz.com/blog/the-new-snack-pack-where-users-clicking-how-you-can-win))&#xA;&#xA;

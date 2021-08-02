@@ -10,6 +10,7 @@ seo:
       keyName: property
 layout: page
 ---
+![](images/9.jpg)
 
 Google Maps, den lilla struntrutan kanske du tänker?
 

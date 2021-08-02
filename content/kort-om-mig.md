@@ -1,6 +1,6 @@
 ---
 title: Kort om mig.
-subtitle: Är ni redo att bli framgrävda?
+subtitle: Vem är jag?
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: SEOmetoden | Kort om mig

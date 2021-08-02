@@ -1,5 +1,5 @@
 ---
-title: Kort om mig.
+title: Det bästa stället att gömma en död kropp på är sida två i Google.
 subtitle: Vem är jag?
 img_alt: Portrait of a man with beard and mustache
 seo:

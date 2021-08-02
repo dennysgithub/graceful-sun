@@ -10,10 +10,9 @@ seo:
       keyName: property
 layout: page
 ---
+![](<stackbit_asset_id:static:static/images/Screenshot 2021-08-02 at 21-04-50 Google My Business – stärk kundengagemanget på Google.png>)
 
-![Example image](images/google-maps-seo.png)
-
-Googles egna gratistjänst som inte får tillräckligt med uppskattning! 
+![](images/google-maps-seo.png)Googles egna gratistjänst som inte får tillräckligt med uppskattning!
 
 Få lokala företagare inser vilken effekt en bra strategi för Google My Business har, de flesta har inte ens någon strategi överhuvudtaget. Men lyssna inte på mig.
 

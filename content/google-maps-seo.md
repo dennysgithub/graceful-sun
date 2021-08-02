@@ -10,11 +10,9 @@ seo:
       keyName: property
 layout: page
 ---
-![](images/google-maps-seo.png)
+![](images/google-3-pack.png)
 
-Googles egna gratistjänst som inte får tillräckligt med uppskattning!
-
-Få lokala företagare inser vilken effekt en bra strategi för Google My Business har, de flesta har inte ens någon strategi överhuvudtaget. Men lyssna inte på mig.
+Det berömda 3-packet. Eller kanske inte så berömt som det borde vara med tanke på vilken guldgruva det är för lokala företagare. Men lyssna inte på mig.
 
 ##### Kolla in statistiken:
 

@@ -1,6 +1,6 @@
 ---
 title: Det bästa stället att gömma en död kropp på är sida två i Google.
-subtitle: Vem är jag?
+subtitle: Är ni redo att bli framgrävda?
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: SEOmetoden | Kort om mig

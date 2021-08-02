@@ -7,7 +7,7 @@ sections:
     title: 'Hej, det är jag som är Dennis.'
     content: >
       Mitt mål är enkelt. Du ska få mer trafik från Google. Och trafiken skall
-      konverteras till betalande kunder. 
+      konverteras till kunder.
   - section_id: about
     type: section_content
     title: just nu

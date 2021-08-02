@@ -30,15 +30,6 @@
                 "style": "link"
             },
             {
-                "label": "YouTube",
-                "url": "#",
-                "style": "button",
-                "icon_class": "dev",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Google Maps SEO",
                 "url": "#",
                 "style": "link",
@@ -53,6 +44,15 @@
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "YouTube",
+                "url": "#",
+                "style": "button",
+                "icon_class": "dev",
+                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             }

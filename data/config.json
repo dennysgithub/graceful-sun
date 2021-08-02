@@ -25,11 +25,6 @@
                 "style": "link"
             },
             {
-                "label": "Kontakt",
-                "url": "/kontakt/",
-                "style": "link"
-            },
-            {
                 "label": "Google Maps SEO",
                 "url": "#",
                 "style": "link",
@@ -46,6 +41,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Kontakt",
+                "url": "/kontakt/",
+                "style": "link"
             },
             {
                 "label": "YouTube",

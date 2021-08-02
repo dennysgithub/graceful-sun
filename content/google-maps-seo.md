@@ -10,7 +10,6 @@ seo:
       keyName: property
 layout: page
 ---
-![](<stackbit_asset_id:static:static/images/Screenshot 2021-08-02 at 21-04-50 Google My Business – stärk kundengagemanget på Google.png>)
 
 Googles egna gratistjänst som inte får tillräckligt med uppskattning! 
 

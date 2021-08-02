@@ -10,11 +10,13 @@ seo:
       keyName: property
 layout: page
 ---
-![](images/9.jpg)
+![](<stackbit_asset_id:static:static/images/Screenshot 2021-08-02 at 21-04-50 Google My Business – stärk kundengagemanget på Google.png>)
 
-Google Maps, den lilla struntrutan kanske du tänker?
+Googles egna gratistjänst som inte får tillräckligt med uppskattning! 
 
-##### Men kolla in statistiken:
+Få lokala företagare inser vilken effekt en bra strategi för Google My Business har, de flesta har inte ens någon strategi överhuvudtaget. Men lyssna inte på mig.
+
+##### Kolla in statistiken:
 
 ###### :white_check_mark: Användare litar mer på det lokala 3-packet än annonser OCH det vanliga sökresultatet tillsammans! ([källa](https://www.searchenginewatch.com/2015/08/27/google-local-pack-is-233-percent-more-important/))
 

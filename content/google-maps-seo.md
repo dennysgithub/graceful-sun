@@ -1,5 +1,5 @@
 ---
-title: Det bästa stället att gömma en död kropp på är sida två i Google.
+title: Vill ni ha fler kunder från Google Maps?
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: SEOmetoden | Kort om mig

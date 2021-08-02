@@ -20,6 +20,6 @@ Välkommen till det lokala 3-packet. Guldgruvan som lokala företagare måste b�
 
 ###### :white_check_mark: Google Maps-rutan är det första användare ser 93% av tiden  ([källa](https://www.seoclarity.net/how-googles-local-pack-update-has-reshaped-the-organic-landscape-12952/))
 
-###### :white_check_mark: Hela 52%1 av klicken går till det lokala 3-packet! Bara 29% går till det organiska sökresultatet & 19% går till betalannonser. ([källa](https://moz.com/blog/the-new-snack-pack-where-users-clicking-how-you-can-win))&#xA;&#xA;
+###### :white_check_mark: Hela 52% av klicken går till det lokala 3-packet! Bara 29% går till det organiska sökresultatet & 19% går till betalannonser. ([källa](https://moz.com/blog/the-new-snack-pack-where-users-clicking-how-you-can-win))&#xA;
 
-<sup></sup>
+

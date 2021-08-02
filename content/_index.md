@@ -6,8 +6,9 @@ sections:
     type: section_hero
     title: 'Hej, det är jag som är Dennis.'
     content: >
-      Mitt mål är enkelt. Du ska få mer trafik från Google. Och trafiken skall
-      konverteras till kunder. 
+      Mitt mål är enkelt. Jag vill öka din trafik från Google Maps & förbättra
+      omvandlingsfrekvensen på din hemsida så att fler besökare blir till
+      kunder.
   - section_id: about
     type: section_content
     title: just nu

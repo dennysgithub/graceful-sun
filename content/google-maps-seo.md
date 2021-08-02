@@ -11,7 +11,7 @@ seo:
 layout: page
 ---
 
-![Example image](/google-maps-seo.png)
+![Example image](images/google-maps-seo.png)
 
 Googles egna gratistjänst som inte får tillräckligt med uppskattning! 
 

@@ -22,13 +22,8 @@ aldrig heller haft.
 Under hela mitt yrkesliv så har jag utfört arbeten av fysisk
 natur, utomhus oftast. Allt från att sitta I en traktor 16h om dagen
 7 dagar I veckan som jordbrukare till att måla plåttak I gassande
-sol. Men idag känner jag mig bekväm med datorn som redskap. 
-
+sol. Men idag känner jag mig bekväm med datorn som redskap.
 
 Är det något som min arbetserfarenhet har gett mig så är det
 en uppskattning för våra lokala företagare, det är ni som bygger
-upp vårt samhälle – alla på sitt sätt. Vilket har gett mig en
-lusta att ge tillbaka, att hjälpa och förstärka kund 
-
-
-###### &#xA;
+upp vårt samhälle – alla på sitt sätt. Det är därför det är så viktigt för mig att fokusera på just lokal SEO & webbdesign.

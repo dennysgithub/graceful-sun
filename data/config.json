@@ -20,15 +20,6 @@
                 "style": "link"
             },
             {
-                "label": "Google Maps SEO",
-                "url": "/google-maps-seo",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Webbdesign",
                 "url": "#",
                 "style": "link",

@@ -11,6 +11,8 @@ seo:
 layout: page
 ---
 
+![Example image](/images.png)
+
 Googles egna gratistjänst som inte får tillräckligt med uppskattning! 
 
 Få lokala företagare inser vilken effekt en bra strategi för Google My Business har, de flesta har inte ens någon strategi överhuvudtaget. Men lyssna inte på mig.

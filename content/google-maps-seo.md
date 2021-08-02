@@ -10,7 +10,6 @@ seo:
       keyName: property
 layout: page
 ---
-![](<stackbit_asset_id:static:static/images/Screenshot 2021-07-31 at 14-11-16 rörmokare stockhollm - Sök på Google.png>)
 
 Google Maps, den lilla struntrutan kanske du tänker?
 

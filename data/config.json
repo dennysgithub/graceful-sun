@@ -76,7 +76,8 @@
                 "icon_class": "dev",
                 "new_window": true
             }
-        ]
+        ],
+        "title": "Dennis Nordberg"
     },
     "footer": {
         "content": "&copy; 2021 | SEOMETODEN"

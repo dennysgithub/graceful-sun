@@ -15,7 +15,7 @@ Det verkar tråkigt. Till eventuella övervakare från staten kan jag lugna er -
 
 Jag försöker... gräva fram dem.. eh, jag tror jag släpper den här metaforen nu.
 
-Jag heter Dennis och jag är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Sökmotoroptimerad Webbdesign. **Vilket betyder att
+Poängen jag vill komma till är att jag heter Dennis och jag är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Sökmotoroptimerad Webbdesign. **Vilket betyder att
 jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.** :rocket:
 
 Även om jag växte upp med datorn och gjorde min första hemsida för över

@@ -10,11 +10,11 @@ seo:
       keyName: property
 layout: page
 ---
-![](images/google-3-pack.png)
+![](images/google\_3pack.png)
 
-Det berömda 3-packet. Eller kanske inte så berömt som det borde vara med tanke på vilken guldgruva det är för lokala företagare. Men lyssna inte på mig.
+Välkommen till det lokala 3-packet. Guldgruvan som lokala företagare måste börja investera mer i. 
 
-##### Kolla in statistiken:
+##### Kolla in statistiken istället:
 
 ###### :white_check_mark: Användare litar mer på det lokala 3-packet än annonser OCH det vanliga sökresultatet tillsammans! ([källa](https://www.searchenginewatch.com/2015/08/27/google-local-pack-is-233-percent-more-important/))
 

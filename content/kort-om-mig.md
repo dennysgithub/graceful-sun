@@ -11,6 +11,10 @@ seo:
       keyName: property
 layout: page
 ---
+Det verkar tråkigt. Till eventuella övervakare från staten kan jag lugna er - jag försöker inte gömma några döda kroppar här.
+
+Jag försöker... gräva fram dem.. eh, jag tror jag släpper den här metaforen nu.
+
 Jag heter Dennis och jag är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Sökmotoroptimerad Webbdesign. **Vilket betyder att
 jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.** :rocket:
 

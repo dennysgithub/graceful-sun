@@ -19,7 +19,7 @@ sections:
 
     actions:
       - label: gratis rankinganalys
-        url: /contact
+        url: /google-maps-seo
         style: button
       - label: Se ett smakprov
         url: '#'

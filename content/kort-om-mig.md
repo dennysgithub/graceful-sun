@@ -22,7 +22,7 @@ Varför är jag så fokuserad på att hjälpa just lokala företagare?
 
 Jag gjorde min första hemsida för över 15 år sedan men har faktiskt bara sysslat med fysiskt aktiva jobb hela mitt arbetsliv, allt från jordbrukare till målare. Nu är kängorna av och jag är redo att fortsätta jobba med företagarna jag känner mig hemma med, denna gång med datorn som redskap.
 
-```
+
 ###### **Min grej:**
 
 :white_check_mark: **Lorem ipsum dolor sit amet, consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -30,7 +30,7 @@ Jag gjorde min första hemsida för över 15 år sedan men har faktiskt bara sys
 :white_check_mark: **Ut enim ad minima veniam, quis nostrum exercitationem** ullam corporis suscipit laboriosam, nisi ut aliquid.
 
 :white_check_mark: **At vero eos et accusamus et iusto odio dignissimos** ducimus qui blanditiis praesentium voluptatum deleniti atque.
-```
+
 
 
 

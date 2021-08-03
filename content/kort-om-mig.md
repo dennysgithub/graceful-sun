@@ -11,7 +11,7 @@ seo:
       keyName: property
 layout: page
 ---
-Det verkar tråkigt. Till eventuella övervakare från staten kan jag lugna er - jag försöker inte gömma några döda kroppar här.
+Det verkar tråkigt. Eventuella övervakare från staten kan vara lugna - jag försöker inte gömma några döda kroppar här.
 
 Jag försöker... gräva fram dem.. eh, jag tror jag släpper den här metaforen nu.
 
@@ -21,4 +21,3 @@ jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.** :ro
 Varför är jag så fokuserad på att hjälpa just lokala företagare?
 
 <mark>Jag gjorde min första hemsida för över 15 år sedan</mark> men har faktiskt bara sysslat med fysiskt aktiva jobb hela mitt arbetsliv. Från att vara  jordbrukare till målare. Men nu har jag tagit av mig kängorna och är redo att fortsätta jobba med företagarna jag känner mig hemma med, denna gång med datorn som redskap.
-

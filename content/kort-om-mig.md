@@ -24,8 +24,8 @@ Jag gjorde min första hemsida för över 15 år sedan men har faktiskt bara sys
 
 Min grej:
 
-personlig service, förståelse, tillgänglighet,
+:arrow_right: personlig service, förståelse, tillgänglighet,
 
-lokala företagare lever på kunder, sitter inte å designar snygga knappar för sakens skull, alltid fokus på fler kunder extremt nischad på det jag gör,
+:arrow_right: lokala företagare lever på kunder, sitter inte å designar snygga knappar för sakens skull, alltid fokus på fler kunder extremt nischad på det jag gör,
 
-det är bara jag och en dator, finns inga kontorslokaler som kostar, inga kaffemaskiner som behöver service, vilket betyder väldigt kostnadseffektivt och bra priser.
+:arrow_right: det är bara jag och en dator, finns inga kontorslokaler som kostar, inga kaffemaskiner som behöver service, vilket betyder väldigt kostnadseffektivt och bra priser.

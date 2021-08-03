@@ -13,7 +13,7 @@ layout: page
 ---
 Det verkar tråkigt. Till eventuella övervakare från staten, lugna - jag försöker inte gömma några döda kroppar här.
 
-Jag försöker... gräva fram dem.. eh, jag tror jag släpper den här metaforen nu.
+Jag försöker... **gräva fram dem..** eh, jag tror jag släpper den här metaforen nu.
 
 Poängen jag vill komma till är att jag heter Dennis och jag är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Sökmotoroptimerad Webbdesign. **Vilket betyder att
 jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.** :rocket:
@@ -33,4 +33,3 @@ Jag gjorde min första hemsida för över 15 år sedan men har faktiskt bara sys
 :white_check_mark: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 :white_check_mark: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-

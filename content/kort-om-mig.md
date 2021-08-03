@@ -20,4 +20,4 @@ jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.** :ro
 
 Varför är jag så fokuserad på att hjälpa just lokala företagare?
 
-Jag gjorde min första hemsida för över 15 år sedan men har faktiskt bara sysslat med fysiskt aktiva jobb hela mitt arbetsliv från jordbrukare till målare. Nu är kängorna av och jag är redo att fortsätta jobba med företagarna jag känner mig hemma med, denna gång med datorn som redskap.
+Jag gjorde min första hemsida för över 15 år sedan men har faktiskt bara sysslat med fysiskt aktiva jobb hela mitt arbetsliv, allt från jordbrukare till målare. Nu är kängorna av och jag är redo att fortsätta jobba med företagarna jag känner mig hemma med, denna gång med datorn som redskap.

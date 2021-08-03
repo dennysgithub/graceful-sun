@@ -20,7 +20,7 @@ jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.** :ro
 
 Varför är jag så fokuserad på att hjälpa just lokala företagare?
 
-Även om jag växte upp med datorn och gjorde min första hemsida för över 15 år sedan så har jag alltid varit den aktiva typen som absolut
-inte kunde tänka sig ett kontorsjobb. Och något kontorsjobb har jag aldrig heller haft.
+Även om jag växte upp med datorn och gjorde min första hemsida för över 15 år sedan så har jag alltid varit den aktiva typen och således
+enbart sysslat med yrken av fysisk natur, allt från jordbrukare till målare. Men idag känner jag mig bekväm med datorn som redskap. Och
+eftersom jag känner mig så kopplad till småföretagandet så är det ju de jag vill hjälpa nu.
 
-Alla yrken jag haft har varit av fysisk natur, allt från jordbrukare till målare, och jag kommer för alltid vara knuten till hårt men belönande jobb, goa gubbar och svinkalla vintrar. Nu när jag tagit av mig kängorna är det dags för mig att fortsätta bidra till småföretagarna men med datorn som redskap denna gången.

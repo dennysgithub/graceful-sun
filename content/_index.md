@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Hej, det är jag som är Dennis.'
     content: >
-      Är du en lokal företagare? Bra. Det är dig jag vill hjälpa få fler
-      kunder. 
+      Mitt mål är enkelt. Hjälpa lokala företagare få mer trafik från Google &
+      se till så trafiken konverteras till kunder. 
   - section_id: about
     type: section_content
     title: just nu

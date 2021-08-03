@@ -5,8 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hej, det är jag som är Dennis.'
-    content: |
-      Jag hjälper bara lokala företagare få fler kunder från Google.
+    content: >
+      Det är simpelt. Jag hjälper bara lokala företagare få fler kunder från
+      Google.
   - section_id: about
     type: section_content
     title: just nu

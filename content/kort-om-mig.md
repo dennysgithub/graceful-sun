@@ -11,7 +11,7 @@ seo:
       keyName: property
 layout: page
 ---
-Det verkar tråkigt. Eventuella övervakare från staten kan vara lugna - jag försöker inte gömma några döda kroppar här.
+Det verkar tråkigt. Men eventuella övervakare från staten kan vara lugna - jag försöker inte gömma några döda kroppar här.
 
 Jag försöker... gräva fram dem.. eh, jag tror jag släpper den här metaforen nu.
 

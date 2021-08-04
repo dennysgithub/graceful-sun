@@ -17,7 +17,7 @@ Jag försöker... **gräva fram dem..** eh, jag tror jag släpper den här metaf
 
 _ _ _
 
->Poängen jag vill komma till är att jag heter Dennis och jag är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Sökmotoroptimerad Webbdesign. **Vilket betyder att
+Poängen jag vill komma till är att jag heter Dennis och jag är en frilansande datornörd vars främsta verktyg i bältet är Google Maps SEO & Sökmotoroptimerad Webbdesign. **Vilket betyder att
 jag är hyperfokuserad på att hjälpa lokala företagare få fler kunder.** :rocket:
 
 Varför är jag så fokuserad på att hjälpa just lokala företagare?

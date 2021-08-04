@@ -15,7 +15,7 @@ sections:
       **Jag gör en rankinganalys av ert företags synlighet i Google Maps.**
        Med min rankinganalys jämför jag över 80 olika slagningar i Google Maps
        och ger er en överskådlig bild över var ni ligger bra till, och var ni 
-      inte ligger så bra till.
+      inte ligger så bra till. :wink:
 
     actions:
       - label: gratis rankinganalys

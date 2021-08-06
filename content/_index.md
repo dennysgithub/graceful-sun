@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hej, det är jag som är Dennis.'
-    content: >
-      Mitt mål är enkelt. Hjälpa lokala företagare få mer trafik från Google &
-      se till så trafiken konverteras till kunder. 
+    content: |
+      Specialiserad på att hjälpa lokala företagare få fler kunder. 
   - section_id: about
     type: section_content
     title: just nu

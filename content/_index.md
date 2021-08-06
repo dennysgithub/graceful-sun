@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Hej, det är jag som är Dennis.'
     content: >
-      Jag hjälper lokala företagare få fler kunder. Först tar vi reda på vad jag
-      kan göra för er. Sedan genomför jag det. Enklare blir det inte.
+      Jag hjälper småföretagare vinna kampen om lokala kunder och ser till så er
+      hemsida inte förlorar potentiella kunder. 
   - section_id: about
     type: section_content
     title: just nu

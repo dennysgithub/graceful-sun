@@ -7,7 +7,7 @@ sections:
     title: 'Hej, det är jag som är Dennis.'
     content: >
       Jag hjälper småföretagare vinna kampen om lokala kunder och ser till så er
-      hemsida inte förlorar potentiella kunder. 
+      hemsida inte förlorar besökare till konkurrenterna.
   - section_id: about
     type: section_content
     title: just nu

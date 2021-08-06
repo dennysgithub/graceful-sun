@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Hej, det är jag som är Dennis.'
     content: >
-      Mitt mål är enkelt. Hjälpa lokala företagare få fler kunder. Behövs mer
-      trafik? Behöver hemsidan omvandla fler besökare till kunder? 
+      Jag hjälper lokala företagare få fler kunder. Behövs mer trafik? Behöver
+      hemsidan omvandla fler besökare till kunder?
   - section_id: about
     type: section_content
     title: just nu

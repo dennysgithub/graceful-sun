@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hej, det är jag som är Dennis.'
-    content: |+
-      Förvandla din webbplats till en heltidsförsäljare
-
+    content: |
+      Jag vill förvandla din webbplats till en heltidsförsäljare
   - section_id: about
     type: section_content
     title: gratis seo-analys

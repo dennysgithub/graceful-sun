@@ -7,7 +7,7 @@ sections:
     title: 'Hej, det är jag som är Dennis.'
     content: >
       Jag vill förvandla din webbplats till en heltidsförsäljare. Och knuffa in
-      lite fler besökare på den såklart.
+      lite fler besökare på den så klart.
   - section_id: about
     type: section_content
     title: era mål

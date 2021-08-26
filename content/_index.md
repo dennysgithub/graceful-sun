@@ -10,7 +10,7 @@ sections:
       lite fler besökare på den såklart.
   - section_id: about
     type: section_content
-    title: s
+    title: vad är viktigt för er?
     content: |+
       **Jag gör en rankinganalys av ert företags synlighet i Google Maps.**
        Med min rankinganalys jämför jag över 80 olika slagningar i Google Maps

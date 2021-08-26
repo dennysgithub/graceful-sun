@@ -9,7 +9,7 @@ sections:
       Jag vill förvandla din webbplats till en heltidsförsäljare.
   - section_id: about
     type: section_content
-    title: gratis seo-analys
+    title: era mål
     content: |+
       **Jag gör en rankinganalys av ert företags synlighet i Google Maps.**
        Med min rankinganalys jämför jag över 80 olika slagningar i Google Maps

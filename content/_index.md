@@ -17,13 +17,6 @@ sections:
       - label: gratis rankinganalys
         url: /google-maps-seo
         style: button
-      - label: Se ett smakprov
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
   - section_id: recent-posts
     type: section_posts
     title: det senaste

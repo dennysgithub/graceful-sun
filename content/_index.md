@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Hej, det är jag som är Dennis.'
     content: >
-      Mitt mål är enkelt. Jag vill hjälpa småföretagare vinna kampen om lokala
-      kunder genom ökad trafik & bättre konvertering. 
+      Mitt mål är enkelt. Jag vill ge dig mer trafik från Google & göra din
+      hemsida till en heltidsanställd säljare. 
   - section_id: about
     type: section_content
     title: gratis seo-analys

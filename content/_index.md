@@ -11,12 +11,9 @@ sections:
   - section_id: about
     type: section_content
     title: vad är viktigt för er?
-    content: |+
-      **Jag gör en rankinganalys av ert företags synlighet i Google Maps.**
-       Med min rankinganalys jämför jag över 80 olika slagningar i Google Maps
-       och ger er en överskådlig bild över var ni ligger bra till, och var ni 
-      inte ligger så bra till.
-
+    content: >
+      Vad är er målsättning med er digitala närvaro? Vad är målsättningen med
+      verksamheten rent generellt? 
     actions:
       - label: gratis rankinganalys
         url: /google-maps-seo

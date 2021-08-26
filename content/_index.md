@@ -11,9 +11,8 @@ sections:
   - section_id: about
     type: section_content
     title: vad är viktigt för er?
-    content: >
-      Vad är er målsättning med er digitala närvaro? Vad är målsättningen med
-      verksamheten rent generellt? 
+    content: |
+      Har ni någon målsättning med er digitala närvaro? 
     actions:
       - label: gratis rankinganalys
         url: /google-maps-seo

@@ -10,7 +10,7 @@ sections:
       kunder.
   - section_id: about
     type: section_content
-    title: just nu
+    title: är det dags att konvertera mera?
     content: |+
       **Jag gör en rankinganalys av ert företags synlighet i Google Maps.**
        Med min rankinganalys jämför jag över 80 olika slagningar i Google Maps

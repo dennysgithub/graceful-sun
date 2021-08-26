@@ -5,8 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hej, det är jag som är Dennis.'
-    content: |
-      Jag vill förvandla din webbplats till en heltidsförsäljare.
+    content: >
+      Jag vill förvandla din webbplats till en heltidsförsäljare. Och knuffa in
+      lite mer besökare på den såklart. 
   - section_id: about
     type: section_content
     title: era mål

@@ -7,7 +7,7 @@ sections:
     title: 'Hej, det är jag som är Dennis.'
     content: >
       Mitt mål är enkelt. Jag vill hjälpa småföretagare vinna kampen om lokala
-      kunder.
+      kunder genom ökad trafik & bättre konvertering. 
   - section_id: about
     type: section_content
     title: är det dags att konvertera mera?

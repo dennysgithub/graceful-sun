@@ -10,7 +10,7 @@ sections:
       kunder genom ökad trafik & bättre konvertering. 
   - section_id: about
     type: section_content
-    title: seo & webbdesign
+    title: gratis analys av hemsida
     content: |+
       **Jag gör en rankinganalys av ert företags synlighet i Google Maps.**
        Med min rankinganalys jämför jag över 80 olika slagningar i Google Maps

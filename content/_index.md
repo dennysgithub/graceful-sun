@@ -26,7 +26,7 @@ sections:
         url: blogg/index.html
         style: button
 seo:
-  title: SEOdennis | Kunder till lokala företagare
+  title: SEO Dennis | Kunder till lokala företagare
   description: >-
     Vad skulle det betyda för er verksamhet om ni började få in två gånger fler
     kunder varje månad? 

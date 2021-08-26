@@ -1,5 +1,5 @@
 ---
-title: Konkurrenterna stjäl dina kunder
+title: Stjäl konkurrenterna dina kunder?
 excerpt: >-
   The Shrines of Ise have been celebrated as the prototype of Japanese
   architecture. Largely of wood, traditional housing and many temple buildings

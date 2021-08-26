@@ -14,7 +14,7 @@ sections:
     content: |
       Har ni någon målsättning med er digitala närvaro? 
     actions:
-      - label: gratis rankinganalys
+      - label: fri konsultation
         url: /google-maps-seo
         style: button
   - section_id: recent-posts

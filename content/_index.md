@@ -10,7 +10,7 @@ sections:
       in lite fler besökare på den?
   - section_id: about
     type: section_content
-    title: vad är viktigt för er?
+    title: BÖRJA HÄR
     content: |
       Har ni någon målsättning med er digitala närvaro? 
     actions:

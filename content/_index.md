@@ -5,8 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hej, det är jag som är Dennis.'
-    content: |
-      Och knuffa in lite fler kunder på den från Google i samma veva.
+    content: >
+      Jag vill förvandla er hemsida till en försäljare på heltid och knuffa in
+      lite fler besökare på den från Google.
   - section_id: about
     type: section_content
     title: BÖRJA HÄR

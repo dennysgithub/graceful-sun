@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Förvandla er hemsida till en försäljare på heltid.
+    title: 'Hej, det är jag som är Dennis.'
     content: |
       Och knuffa in lite fler kunder på den från Google i samma veva.
   - section_id: about

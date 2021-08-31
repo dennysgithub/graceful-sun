@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Förvandla er hemsida till en försäljare på heltid.
-    content: >
-      Vill du förvandla er hemsida till en heltidsförsäljare? Och kanske knuffa
-      in lite fler besökare på den?
+    content: |
+      Och knuffa in lite fler kunder på den från Google i samma veva.
   - section_id: about
     type: section_content
     title: BÖRJA HÄR

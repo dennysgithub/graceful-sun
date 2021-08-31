@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hej, det är jag som är Dennis.'
+    title: Förvandla er hemsida till en försäljare på heltid.
     content: >
       Vill du förvandla er hemsida till en heltidsförsäljare? Och kanske knuffa
       in lite fler besökare på den?

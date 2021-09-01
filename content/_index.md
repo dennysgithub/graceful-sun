@@ -7,7 +7,7 @@ sections:
     title: 'Hej, det är jag som är Dennis.'
     content: >
       Jag är supernischad på Lokal SEO & Webbdesign. Det betyder att jag har
-      100% fokus på att hjälpa lokala småföretagare få fler kunder på nätet.
+      **100% fokus på att hjälpa lokala småföretagare få fler kunder på nätet.**
   - section_id: about
     type: section_content
     title: BÖRJA HÄR

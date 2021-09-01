@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Hej, det är jag som är Dennis.'
     content: >
-      Jag vill förvandla er hemsida till en försäljare på heltid och knuffa in
-      lite fler besökare på den från Google.
+      Jag är supernischad på Lokal SEO & Webbdesign, vilket betyder att jag har
+      100% fokus på att hjälpa lokala småföretagare få fler kunder på nätet.
   - section_id: about
     type: section_content
     title: BÖRJA HÄR
